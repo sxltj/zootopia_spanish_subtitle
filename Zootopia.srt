@@ -1500,7 +1500,7 @@ Qué tal vender comida sin un permiso.
 
 386
 00:24:04,710 --> 00:24:06,754
-Transportar sin declarar entre vecintario.
+Transportar sin declarar entre vecindario.
 
 387
 00:24:06,920 --> 00:24:08,005
@@ -1589,7 +1589,7 @@ Y upsi número tres, linda,
 
 405
 00:24:55,344 --> 00:24:57,471
-a nadie le importan ella ni su sueño.
+a nadie le importan ella ni sus sueños.
 
 406
 00:24:57,638 --> 00:25:01,517
@@ -2001,7 +2001,7 @@ dos docenas de cebollas viejas.
 507
 00:31:09,676 --> 00:31:12,053
 No quiero contradecirlo, señor.
-Pero son eso.
+Pero no son eso.
 
 508
 00:31:12,220 --> 00:31:14,890
@@ -2227,7 +2227,7 @@ estará fascinado!
 
 558
 00:33:15,635 --> 00:33:16,720
-No, no, no creo haga falta decirle.
+No, no, no creo que haga falta decirle.
 
 559
 00:33:16,887 --> 00:33:19,681
