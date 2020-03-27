@@ -881,7 +881,7 @@ estereotipándote, ¿no?
 
 244
 00:14:11,492 --> 00:14:15,330
-- Traquilo. Oye, creo que tienes un...
+- Tranquilo. Oye, creo que tienes un...
 - Yo que...
 
 245
@@ -1136,7 +1136,7 @@ Así que sigue tu camino.
 303
 00:18:45,725 --> 00:18:50,605
 Tampoco quiero tener problemas aquí, señor.
-Sólo vine a comprar una Jumbo Pop.
+solo vine a comprar una Jumbo Pop.
 
 304
 00:18:50,771 --> 00:18:52,273
@@ -1174,7 +1174,7 @@ este travieso cachorro,
 
 312
 00:19:15,963 --> 00:19:18,966
-Le fascinan a los elefantes.
+Le fascinan los elefantes.
 Quiere volverse uno cuando crezca.
 
 313
@@ -1238,11 +1238,11 @@ a sus helados?
 326
 00:19:56,337 --> 00:19:59,840
 Bueno, no quisiera causar inconvenientes.
-Pero, como sabes.
+Pero, como sabes
 
 327
 00:20:00,049 --> 00:20:02,718
-servir helado con una trompa,  
+servir helado con una trompa
 es una violación de clase 3 al código de salud.
 
 328
@@ -1251,7 +1251,7 @@ Lo cuál es bastante serio.
 
 329
 00:20:06,639 --> 00:20:08,432
-Pero quízas sólo les dé una advertencia.
+Pero quízas solo les dé una advertencia,
 
 330
 00:20:08,599 --> 00:20:12,353
@@ -1451,7 +1451,7 @@ Eres un asco en ese chupón, galán.
 
 375
 00:23:31,427 --> 00:23:33,887
-Eh, ¿no hay beso para papi de despedida?
+Hey, ¿no hay beso para papi de despedida?
 
 376
 00:23:35,556 --> 00:23:38,809
@@ -1551,7 +1551,7 @@ provinieras en un pueblucho granjero, ¿no?
 
 397
 00:24:31,320 --> 00:24:33,781
-Eso está en servilla,
+Eso está en Servilla,
 yo crecí en Las Madrigueras.
 
 398
@@ -1565,8 +1565,8 @@ con notas altas y mucha ilusión
  
 400
 00:24:40,162 --> 00:24:42,873
-decide: "!Eh, Eschuchen!
-Me voy a mudarme a Zootopia,
+decide: "¡Hey, escuchen!
+Me voy a mudarme a Zootopia.
 
 401
 00:24:43,040 --> 00:24:46,043
@@ -1584,7 +1584,7 @@ Que no todos los son.
 
 404
 00:24:51,715 --> 00:24:55,177
-Doble upsi. solo reparte-multas.
+Doble upsi. Solo reparte-multas.
 Y upsi número tres, linda,
 
 405
@@ -1594,17 +1594,17 @@ a nadie le importan ella ni sus sueños.
 406
 00:24:57,638 --> 00:25:01,517
 Y pronto esos sueños mueren
-y sufrió una caída emocional y literal,
+y sufre una caída emocional y literal,
 
 407
 00:25:01,683 --> 00:25:03,143
-y así terminó en una caja
+y así termina en una caja
 bajo un puente.
 
 408
 00:25:03,310 --> 00:25:05,687
 Y al final, ya no le queda más
-que volver con sus padres.
+que volver con sus padres
 
 409
 00:25:05,854 --> 00:25:08,315
@@ -1626,17 +1626,17 @@ Se planta zanahorias aburridas.
 
 413
 00:25:18,200 --> 00:25:21,328
-Ten cuidado, o no sólo estarán 
+Ten cuidado, o no solo estarán 
 aplastando tus sueños.
 
 414
 00:25:21,495 --> 00:25:25,749
-¡Oye, oye, yo no dejo que me digan
+¡Oye, oye! yo no dejo que me digan
 de que soy o no capaz.
 
 415
 00:25:25,916 --> 00:25:27,918
-En especial un bravucón.
+En especial un bravucón
 
 416
 00:25:28,085 --> 00:25:32,589
@@ -1646,7 +1646,7 @@ un simple estafador callejero.
 417
 00:25:32,756 --> 00:25:36,176
 Te diré algo.
-hay muchos que vienen a Zootopia.
+hay muchos que vienen a Zootopia
 
 418
 00:25:36,343 --> 00:25:38,178
@@ -1749,7 +1749,7 @@ Son muy gentiles aquí
 
 447
 00:27:16,485 --> 00:27:18,779
-¡Hay, es, no, hay, no!
+¡Ay, es, no, Ay, no!
 es algo temporal.
 
 448
@@ -1774,7 +1774,7 @@ es algo temporal.
 452
 00:27:28,497 --> 00:27:30,207
 Oigan, hoy fue un día largo.
-tengo que...
+tengo que ir a...
 
 453
 00:27:30,499 --> 00:27:31,458
@@ -1889,7 +1889,7 @@ rabo de algodón!
 
 479
 00:28:52,623 --> 00:28:53,540
-¡Permiso!
+¡Con permiso!
 
 480
 00:28:53,707 --> 00:28:55,375
@@ -1929,7 +1929,7 @@ Lo siento, espacio.
 489
 00:29:51,306 --> 00:29:53,600
 Disculpe.
-Disculpe. Perdón.
+Disculpen. Perdón.
 
 490
 00:29:58,188 --> 00:29:59,439
@@ -1954,7 +1954,7 @@ Lindo cabello.
 
 496
 00:30:33,306 --> 00:30:34,349
-Te agradezco.
+Te la agradezco.
 
 497
 00:30:35,392 --> 00:30:37,185
@@ -2169,6 +2169,7 @@ Mis bebés y yo lo esperamos en casa.
 Sra. Nutriales,
 puedes esperar afuera?
 
+00:32:46,510 --> 00:32:48,620
 545
 Claro, gracias, de verdad.
 
@@ -2195,7 +2196,7 @@ Ahora, abriré la puerta.
 551
 00:32:57,659 --> 00:33:00,412
 y tú le dirás a la nutria
-que sólo eras una simple reparte-multas.
+que solo eras una simple reparte-multas.
 
 552
 00:33:00,662 --> 00:33:02,706
@@ -2330,7 +2331,7 @@ así que recursos, ninguno.
 
 583
 00:34:15,946 --> 00:34:19,157
-Oye, espero que no arriesgarás 
+Oye, espero que no arriesgaras 
 tu carrera en esto.
 
 584
@@ -2513,7 +2514,7 @@ De hecho, es tu palabra contra la tuya.
 625
 00:36:22,822 --> 00:36:26,201
 Te doy la grabación si me ayudas 
-a buscar esta pobre Sr. Nutrias, 
+a buscar esta pobrecilla nutria, 
 
 626
 00:36:26,367 --> 00:36:30,330
@@ -2552,7 +2553,7 @@ Te escucho.
 634
 00:36:53,478 --> 00:36:56,731
 No sé dónde está, solo 
-vi a dónde se fue.
+vi adónde se fue.
 
 635
 00:36:56,898 --> 00:36:57,941
@@ -2619,7 +2620,7 @@ Emmitt Nutriales, es él.
 
 650
 00:37:52,620 --> 00:37:55,248
-¿Ha frecuentado este establecimiento?
+¿Frecuentaba este establecimiento?
 
 651
 00:37:59,919 --> 00:38:01,462
@@ -2662,7 +2663,7 @@ pueden ser lo que deseen.
 
 660
 00:38:21,649 --> 00:38:23,651
-Ellos son animales desnudos. 
+Ellos son animales nudistas. 
 
 661
 00:38:23,818 --> 00:38:26,779
@@ -3970,7 +3971,7 @@ Benjamín Garraza.
 
 963
 00:54:12,140 --> 00:54:14,810
-No lo es. Sólo es una APP.
+No lo es. solo es una APP.
 Un segundin.
 
 964
@@ -4068,7 +4069,7 @@ Esto será emocionante.
 
 986
 00:55:46,485 --> 00:55:47,861
-Creí que sólo era un mamífero perdido.
+Creí que solo era un mamífero perdido.
 
 987
 00:55:48,028 --> 00:55:49,529
@@ -4077,7 +4078,7 @@ pero es mucho más.
 988
 00:55:49,696 --> 00:55:51,823
 El Sr. Nutriales
-no sólo desapareció.
+no solo desapareció.
 
 989
 00:55:51,990 --> 00:55:56,036
@@ -4268,7 +4269,7 @@ Creo que tenía ocho, o tal vez nueve,
 
 1032
 00:58:23,391 --> 00:58:28,688
-y tenía un sólo sueño:
+y tenía un solo sueño:
 entrar a los Júnior Exploradores.
 
 1033
@@ -4384,7 +4385,7 @@ que lograron herirme.
 1058
 00:59:55,358 --> 01:00:00,488
 Si el mundo cree que un zorro
-sólo puede ser falso y deshonesto,
+solo puede ser falso y deshonesto,
 
 1059
 01:00:00,655 --> 01:00:03,658
@@ -4654,7 +4655,7 @@ Aquí está.
 
 1119
 01:02:34,809 --> 01:02:37,687
-Sólo son lobos.
+solo son lobos.
 Tienen la cabeza vacía.
 
 1120
@@ -7047,7 +7048,7 @@ en la comarca de la Savannah.
 
 1667
 01:35:24,360 --> 01:35:28,030
-Todos los conejos manejan mal o sólo eres tú?
+Todos los conejos manejan mal o solo eres tú?
 
 1668
 01:35:30,116 --> 01:35:31,367
