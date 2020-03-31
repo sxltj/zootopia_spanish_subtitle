@@ -509,7 +509,6 @@ la placa.
 <i>- Sí, claro que sí.
 - Hazlo.
 
-
 122
 00:07:43,563 --> 00:07:44,356
 <i>Judy,
@@ -1136,7 +1135,7 @@ Así que sigue tu camino.
 303
 00:18:45,725 --> 00:18:50,605
 Tampoco quiero tener problemas aquí, señor.
-solo vine a comprar una Jumbo Pop.
+Solo vine a comprar una Jumbo Pop.
 
 304
 00:18:50,771 --> 00:18:52,273
@@ -1265,7 +1264,7 @@ y a su hijo una...
 
 332
 00:20:16,023 --> 00:20:16,982
-¿Qué quería?
+¿Qué querían?
 
 333 
 00:20:17,149 --> 00:20:19,193
@@ -1431,7 +1430,7 @@ Entrega de madera.
 
 370
 00:23:20,082 --> 00:23:21,083
-Por qué ese color?
+¿Por qué ese color?
 
 371
 00:23:21,250 --> 00:23:22,293
@@ -1500,7 +1499,7 @@ Qué tal vender comida sin un permiso.
 
 386
 00:24:04,710 --> 00:24:06,754
-Transportar sin declarar entre vecindario.
+Transportar sin declarar entre vecindarios.
 
 387
 00:24:06,920 --> 00:24:08,005
@@ -1543,7 +1542,7 @@ de decirme "Zanahorias".
 395
 00:24:26,440 --> 00:24:30,277
 Ay perdón, solo creí natural que 
-provinieras en un pueblucho granjero, ¿no?
+provinieras en un pueblucho granjero, ¿o no?
 
 396
 00:24:30,444 --> 00:24:31,153
@@ -1570,7 +1569,7 @@ Me voy a mudarme a Zootopia.
 
 401
 00:24:43,040 --> 00:24:46,043
-Los mamiferos ahí son amigos
+Los mamíferos ahí son amigos
 y cantan cumbias".
 
 402
@@ -1609,7 +1608,7 @@ que volver con sus padres
 409
 00:25:05,854 --> 00:25:08,315
 con su algodonado rabito
-entre las patas.
+entre las patas
 
 410
 00:25:08,482 --> 00:25:09,483
@@ -1710,11 +1709,11 @@ Hola, son mis padres.
 438
 00:26:57,090 --> 00:26:59,843
 <i>Hola, Judy dudy.
-Qué tal tu primer día en la fuerza?
+¿Qué tal tu primer día en la fuerza?
 
 439
 00:27:00,010 --> 00:27:01,929
-<i>- Soy sensacional.
+<i>- Sensacional.
 - ¿Sí,
 
 440
@@ -1745,7 +1744,7 @@ Son muy gentiles aquí
 
 446
 00:27:14,274 --> 00:27:16,318
-<i>Judy, eres un oficial de parquímetros?
+<i>Judy, ¿eres un oficial de parquímetros?
 
 447
 00:27:16,485 --> 00:27:18,779
@@ -1991,11 +1990,11 @@ Pusiste en peligro muchos roedores.
 
 505
 00:31:03,211 --> 00:31:05,088
-Pero, en tú defensa,
+Pero, en tu defensa,
 
 506
 00:31:05,255 --> 00:31:08,842
-Detuviste un maestro criminal por robado 
+detuviste un maestro criminal por robado 
 dos docenas de cebollas viejas.
 
 507
@@ -2014,7 +2013,7 @@ Es una planta clase C.
 
 510
 00:31:16,600 --> 00:31:18,518
-Es que en mi familia,
+Es que en mi familia
 saber de plantas es una parte importan....
 
 511
@@ -2074,11 +2073,11 @@ Pero, señor, s...
 523
 00:31:46,463 --> 00:31:49,299
 La vida no es una película musical
-donde cantas una linda canción.
+donde cantas una linda canción,
 
 524
 00:31:49,466 --> 00:31:52,886
-y tus inspidos sueños
+y tus insípidos sueños
 mágicamente se cumplen ya.
 
 525
@@ -2088,7 +2087,7 @@ Entonces, no insistas.
 526
 00:31:56,640 --> 00:31:59,893
 Jefe Bogo, le pido
-5 minutos de su tiempo.
+5 minutos de su tiempo. ¿Podría?
 
 527
 00:32:00,060 --> 00:32:01,102
@@ -2096,7 +2095,7 @@ Perdón, señor.
 
 528
 00:32:01,269 --> 00:32:03,396
-Quisiera atraparla pero se me escapó  
+Quisiera atraparla, pero se me escapó  
 
 529
 00:32:03,563 --> 00:32:05,232
@@ -2148,8 +2147,7 @@ Ah, te lo agradezco.
 
 540
 00:32:32,592 --> 00:32:35,470
-Gracias.
-conejita, de verdad. 
+Gracias, conejita. De verdad. 
 
 541
 00:32:38,139 --> 00:32:39,099
@@ -2157,7 +2155,7 @@ Ten esto.
 
 542
 00:32:39,266 --> 00:32:41,685
-buscar a mi Emmitt,
+Busca a mi Emmitt,
 por favor.
 
 543
@@ -2169,8 +2167,8 @@ Mis bebés y yo lo esperamos en casa.
 Sra. Nutriales,
 puedes esperar afuera?
 
-00:32:46,510 --> 00:32:48,620
 545
+00:32:46,510 --> 00:32:48,620
 Claro, gracias, de verdad.
 
 546
@@ -2196,7 +2194,7 @@ Ahora, abriré la puerta.
 551
 00:32:57,659 --> 00:33:00,412
 y tú le dirás a la nutria
-que solo eras una simple reparte-multas.
+que solo eras una simple reparte-multas
 
 552
 00:33:00,662 --> 00:33:02,706
@@ -2210,7 +2208,7 @@ con delirios de grandeza.
 554
 00:33:04,791 --> 00:33:07,669
 Oír que la Oficial Hopps
-Estará en el caso.
+estará en el caso.
 
 555
 00:33:07,878 --> 00:33:09,170
@@ -2317,7 +2315,7 @@ Nutria perdida la orden.
 
 580
 00:34:06,144 --> 00:34:09,189
-¡Qué cosa! creo que jamás vio 
+¡Qué cosa! Creo que jamás vi 
 un archivo tan pasillo.
 
 581
@@ -2698,7 +2696,7 @@ que la vida naturalista es rara,
 
 668
 00:38:49,761 --> 00:38:51,721
-pero ¿Te digo que sí es raro?
+pero ¿Te digo qué sí es raro?
 
 669
 00:38:51,888 --> 00:38:53,806
@@ -2759,7 +2757,7 @@ Sí, usaba un chaleco color verde tejido a mano.
 682
 00:39:22,168 --> 00:39:27,465
 y uno nuevo par de pantalones de pana.
-Y una corbata slang badadada con nudo Windsor. 
+Y una corbata estampada dada con nudo Windsor. 
 
 683
 00:39:27,632 --> 00:39:29,509
@@ -2773,7 +2771,7 @@ No.
 685
 00:39:31,427 --> 00:39:35,848
 Los dos lo acompañamos afuera y entró
-en un auto blanco y grande con un gordo plateado.
+en un auto blanco y grande con un borde plateado.
 
 686
 00:39:36,015 --> 00:39:38,810
@@ -2886,7 +2884,7 @@ en el Departamento de Vehículos.
 
 712
 00:40:44,459 --> 00:40:45,793
-<i>Flash es una casera trabajar.
+<i>Flash es una gacela al trabajar.
 
 713
 00:40:45,877 --> 00:40:47,545
@@ -3138,7 +3136,7 @@ muy bueno.
 
 771
 00:43:43,387 --> 00:43:44,597
-Ahora please concentrarse
+Ahora puede concentrarse
 en lo que estamos?
 
 772
@@ -3971,7 +3969,7 @@ Benjamín Garraza.
 
 963
 00:54:12,140 --> 00:54:14,810
-No lo es. solo es una APP.
+No lo es. Solo es una APP.
 Un segundin.
 
 964
