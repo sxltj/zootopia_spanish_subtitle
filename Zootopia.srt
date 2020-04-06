@@ -3462,11 +3462,11 @@ tan molesto contigo?
 844
 00:47:26,318 --> 00:47:29,029
 Yo, tal vez le vendí
-una alfombra muy costosa.
+una alfombra muy costosa
 
 845
 00:47:29,196 --> 00:47:33,117
-que fue fabricada con pelo de un zorrillo.
+que fue fabricada con pelo de un zorrillo
 
 846
 00:47:33,284 --> 00:47:35,286
@@ -3478,7 +3478,7 @@ Dulces galletas con queso.
 
 848
 00:47:53,345 --> 00:47:54,638
-¿Es él Mr. Big?
+¿Él es Mr. Big?
 
 849
 00:47:54,805 --> 00:47:55,806
@@ -3538,7 +3538,7 @@ de su hija.
 
 861
 00:48:37,681 --> 00:48:39,517
-Confía en ti, Nicky.
+Confié en ti, Nicky.
 
 862
 00:48:39,683 --> 00:48:41,602
@@ -3614,7 +3614,7 @@ Y busco a Emmitt Nutriales.
 
 879
 00:49:22,101 --> 00:49:24,645
-Y mi evidendencia ubica en su auto.
+Y mi evidencia lo ubiqué en su auto.
 
 880
 00:49:24,812 --> 00:49:26,355
@@ -3729,7 +3729,7 @@ Nutriales es mi florista.
 
 906
 00:51:00,282 --> 00:51:02,576
-es casi parte 
+Es casi parte 
 de la familia.
 
 907
@@ -3738,7 +3738,7 @@ Tenía algo muy importante que quería discutir.
 
 908
 00:51:05,954 --> 00:51:08,874
-Y por eso hice la auto 
+Y por eso hice que la auto 
 pasara por él.
 
 909
@@ -3913,7 +3913,7 @@ Zorro astuto.
 
 950
 00:53:23,383 --> 00:53:24,384
-¿Oye Señor?... 
+¿Oiga, señor?... 
 
 951
 00:53:24,551 --> 00:53:25,552
@@ -3959,12 +3959,12 @@ Ok, sigue mirando.
 
 961
 00:54:03,549 --> 00:54:06,885
-<i>¡Wow! es un bailarín espectacular,
+<i>¡Wow! Eres un bailarín espectacular,
 Benjamín Garraza.
 
 962
 00:54:08,512 --> 00:54:11,974
-¡Su servidor! ¿Creíste que era realista?
+¡Su servidor! ¿Creíste que era real?
 ¡Es tan auténtico!
 
 963
@@ -3978,7 +3978,7 @@ Un segundin.
 
 965
 00:54:16,562 --> 00:54:20,399
-¡Garraza, eschúchame! Tenemos un 10-91!
+¡Garraza, escúchame! Tenemos un 10-91!
 ¡Un jaguar se volvió salvaje!
 
 966
@@ -4071,7 +4071,7 @@ Creí que solo era un mamífero perdido.
 
 987
 00:55:48,028 --> 00:55:49,529
-pero es mucho más.
+Pero es mucho más.
 
 988
 00:55:49,696 --> 00:55:51,823
@@ -4413,7 +4413,7 @@ Gracias por compartir.
 
 1065
 01:00:21,092 --> 01:00:22,594
-Las cámaras de video.
+Las cámaras de vídeo.
 
 1066
 01:00:22,761 --> 01:00:25,430
@@ -4422,7 +4422,7 @@ Las cámaras de video.
 
 1067
 01:00:25,597 --> 01:00:28,642
-¡Tienen cámaras de video
+¡Tienen cámaras de vídeo
 en todas partes!
 
 1068
@@ -4467,8 +4467,8 @@ que me ayudará.
 
 1077
 01:00:49,120 --> 01:00:51,790
-Señor, si pudiera revisar
-los, son muy importantes y...
+Señor, si pudiera revisarlos, 
+son muy importantes y...
 
 1078
 01:00:52,457 --> 01:00:53,166
@@ -4544,7 +4544,7 @@ Algodón de azúcar.
 
 1095
 01:01:33,707 --> 01:01:34,833
-¿A dónde?
+¿Adónde?
 
 1096
 01:01:35,292 --> 01:01:38,169
@@ -4571,8 +4571,7 @@ de Zootopia.
 
 1101
 01:01:47,178 --> 01:01:49,556
-Más pienso yo en realidad
-una secretaria.
+Más bien soy una elegante secretaria.
 
 1102
 01:01:49,723 --> 01:01:52,183
@@ -4581,7 +4580,7 @@ quería el voto ovejuno.
 
 1103
 01:01:52,350 --> 01:01:53,560
-Pero sí recibí una tarra de obsequios.
+Pero sí recibí una tarra de obsequio.
 
 1104
 01:01:53,893 --> 01:01:55,687
@@ -4635,12 +4634,12 @@ Estoy contenta de haber coope...
 1115
 01:02:19,210 --> 01:02:21,046
 ¿Tú crees que cuando duerme
-se cuenta sí misma?
+se cuenta a sí misma?
 
 1116
 01:02:21,212 --> 01:02:22,922
 Calla.
-Ok, regresemos.
+Ok, revisemos.
 
 1117
 01:02:23,256 --> 01:02:26,342
@@ -4649,7 +4648,7 @@ Aquí está.
 
 1118
 01:02:31,973 --> 01:02:33,725
-¿Quién? ¿Quiénes son ellos?
+¿Quién? ¿Quienes son ellos?
 
 1119
 01:02:34,809 --> 01:02:37,687
@@ -4658,7 +4657,7 @@ Tienen la cabeza vacía.
 
 1120
 01:02:42,358 --> 01:02:44,986
-Te apuesto una moneda que uno aullar. 
+Te apuesto una moneda que uno aúlle. 
 
 1121
 01:02:45,153 --> 01:02:46,362
@@ -4666,8 +4665,8 @@ Hey, lo hizo.
 
 1122 
 01:02:46,529 --> 01:02:49,324
-¿Por qué la obsesión de 
-los lobos por aullares tan...?
+¿Por qué la obsesión de
+los lobos por aullar es tan...?
 
 1123
 01:02:49,491 --> 01:02:51,409
@@ -4685,12 +4684,12 @@ Si tienen a Manchas,
 
 1126
 01:02:56,539 --> 01:02:58,249
-Apuesto a que Nutriales es igual.
+Apuesto a que Nutriales igual.
 
 1127
 01:02:58,416 --> 01:03:00,919
 Solo nos queda que averiguar
-a dónde fueron.
+adónde fueron.
 
 1128
 01:03:05,173 --> 01:03:08,218
@@ -4753,7 +4752,7 @@ Salen de la ciudad.
 
 1142
 01:03:36,079 --> 01:03:37,580
-¿Y este camino a dónde llevar?
+¿Y este camino adónde llevar?
 
 1143
 01:04:22,250 --> 01:04:23,251
@@ -4893,7 +4892,7 @@ y ustedes no saben por qué.
 
 1175
 01:07:05,830 --> 01:07:08,624
-Eso no es ni remotamente a ser todos alcance.
+Eso no es ni remotamente hacer todos alcance.
 
 1176
 01:07:08,791 --> 01:07:09,834
@@ -5027,7 +5026,7 @@ Eres un bailarín espectacular,
 
 1206
 01:08:44,887 --> 01:08:47,557
-Grroza, ¿no ves que trabajo en 
+Garraza, ¿no ves que trabajo en 
 los expedientes mamíferos?
 
 1207
@@ -5037,7 +5036,7 @@ La oficial Hopps llamó.
 
 1208
 01:08:51,436 --> 01:08:52,520
-Encontra todo el mundo.
+Encontró a todo el mundo.
 
 1209
 01:08:53,271 --> 01:08:55,356
@@ -5059,8 +5058,8 @@ Lo que usted quería era proteger su empleo.
 
 1213
 01:09:06,284 --> 01:09:09,245
-No. Escucha, aún no halla nada.
-Son de qué es lo que pasa aquí,
+No. Escucha, aún no halla la razón
+de qué es lo que pasa aquí,
 
 1214
 01:09:09,412 --> 01:09:11,414
