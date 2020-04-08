@@ -277,7 +277,7 @@ Qué lindo traje, perdedora.
 65
 00:04:30,662 --> 00:04:35,042
 ¿En qué loco mundo vives creyendo
-que una presa puede ser Policía?
+que una presa puede ser policía?
 
 66
 00:04:35,208 --> 00:04:37,294
@@ -340,7 +340,7 @@ Y recuerda muy bien este momento.
 
 80
 00:05:16,750 --> 00:05:20,420
-si alguna vez crees que serás
+Si alguna vez crees que serás
 capaz de ser algo más que una
 
 81
@@ -472,13 +472,13 @@ Aniquilada.
 
 113
 00:07:17,621 --> 00:07:20,624
-<i>Como el Alcalde de Zootopia,
-Me complacía anunciar.
+<i>Como el alcalde de Zootopia,
+me complacía anunciar.
 
 114
 00:07:20,790 --> 00:07:24,044
 <i>que mi iniciativa de inclusión 
-de mamíferos ha producido.
+de mamíferos ha producido
 
 115
 00:07:24,210 --> 00:07:26,880
@@ -516,7 +516,7 @@ la placa.
 123
 00:07:44,814 --> 00:07:48,443
 <i>es un vedadero privilegio 
-oficialmente te asigno.
+oficialmente te asigno
 
 124
 00:07:48,610 --> 00:07:51,905
@@ -823,7 +823,7 @@ Oy, la cama.
 
 230
 00:13:35,581 --> 00:13:36,541
-No es justo,
+No es justo.
 
 231
 00:13:36,708 --> 00:13:38,459
@@ -917,7 +917,7 @@ no saldrá viva.
 
 252
 00:14:43,983 --> 00:14:45,943
-Hola, Oficial Hopps.
+Hola, oficial Hopps.
 
 253
 00:14:46,110 --> 00:14:47,945
@@ -941,7 +941,7 @@ Primero, un asunto de gran importancia.
 
 258
 00:15:10,301 --> 00:15:11,219
-Francín,
+Francín.
 
 259
 00:15:12,303 --> 00:15:13,304
@@ -953,7 +953,7 @@ Número dos.
 
 261
 00:15:17,809 --> 00:15:20,728
-hay nuevos reclutas con nosotros el día de hoy,
+Hay nuevos reclutas con nosotros el día de hoy,
 
 262
 00:15:20,895 --> 00:15:21,896
@@ -969,7 +969,7 @@ Y finalmente, hay 14 mamíferos desaparecidos.
 
 265
 00:15:29,904 --> 00:15:33,825
-todos depredadores, desde un gigantesco oso polar 
+Todos depredadores, desde un gigantesco oso polar 
 hasta una diminuta nutria.
 
 266
@@ -1017,7 +1017,7 @@ Y finalmente,
 
 276
 00:16:02,186 --> 00:16:04,730
-La oficial Hopps.
+La oficial Hopps,
 nuestra primera coneja...
 
 277
@@ -1052,7 +1052,7 @@ Señor, dijo que había
 
 284
 00:16:20,413 --> 00:16:23,833
-tal vez lo olvidó, pero fui
+Tal vez lo olvidó, pero fui
 la mejor de mi clase en la academia.
 
 285
@@ -1143,7 +1143,7 @@ para mi niño especial.
 
 305
 00:18:56,611 --> 00:18:59,113
-Quieres la roja o la azul, campeón?
+¿Quieres la roja o la azul, campeón?
 
 306
 00:19:04,243 --> 00:19:05,661
@@ -1155,7 +1155,7 @@ A ver, niño. Atrás.
 
 308
 00:19:06,996 --> 00:19:09,332
-Oye, compadre. ¿qué?
+Oye, compadre. ¿Qué?
 Acaso no hay heladerías.
 
 309
@@ -1250,7 +1250,7 @@ Lo cuál es bastante serio.
 
 329
 00:20:06,639 --> 00:20:08,432
-Pero quíza solo les dé una advertencia,
+Pero quíza solo les dé una advertencia
 
 330
 00:20:08,599 --> 00:20:12,353
@@ -1490,7 +1490,7 @@ estás arrestado.
 
 384
 00:24:00,581 --> 00:24:01,957
-¿En serio? ¿por qué?
+¿En serio? ¿Por qué?
 
 385
 00:24:02,124 --> 00:24:04,543
@@ -1630,7 +1630,7 @@ aplastando tus sueños.
 
 414
 00:25:21,495 --> 00:25:25,749
-¡Oye, oye! yo no dejo que me digan
+¡Oye, oye! Yo no dejo que me digan
 de que soy o no capaz.
 
 415
@@ -1645,7 +1645,7 @@ un simple estafador callejero.
 417
 00:25:32,756 --> 00:25:36,176
 Te diré algo.
-hay muchos que vienen a Zootopia
+Hay muchos que vienen a Zootopia
 
 418
 00:25:36,343 --> 00:25:38,178
@@ -1748,7 +1748,7 @@ Son muy gentiles aquí
 
 447
 00:27:16,485 --> 00:27:18,779
-¡Ay, es, no, Ay, no!
+¡Ay, es, no, ay, no!
 es algo temporal.
 
 448
@@ -1773,7 +1773,7 @@ es algo temporal.
 452
 00:27:28,497 --> 00:27:30,207
 Oigan, hoy fue un día largo.
-tengo que ir a...
+Tengo que ir a...
 
 453
 00:27:30,499 --> 00:27:31,458
@@ -1914,8 +1914,8 @@ y voy a persecución!
 
 486
 00:29:17,773 --> 00:29:19,900
-Oye, reparte-multas!
-Espera a los policías de verdad!
+¡Oye, reparte-multas!
+¡Espera a los policías de verdad!
 
 487
 00:29:21,318 --> 00:29:22,319
@@ -1966,15 +1966,15 @@ y espere en la fila con los demás,
 
 499
 00:30:42,983 --> 00:30:45,152
-Sra. Nutriales, entiende?
+Sra. Nutriales, ¿entiende?
 
 500
 00:30:51,867 --> 00:30:53,910
-Yo atrapé a la comadreja!
+¡Yo atrapé a la comadreja!
 
 501
 00:30:54,077 --> 00:30:55,829
-Hopps!
+¡Hopps!
 
 502
 00:30:57,748 --> 00:30:59,332
@@ -2316,7 +2316,7 @@ Nutria perdida la orden.
 580
 00:34:06,144 --> 00:34:09,189
 ¡Qué cosa! Creo que jamás vi 
-un archivo tan pasillo.
+un archivo tan vacío.
 
 581
 00:34:09,356 --> 00:34:11,566
@@ -2434,7 +2434,7 @@ Conozco todo el mundo.
 
 607
 00:35:29,811 --> 00:35:31,813
-Igual que sí que en alguna parte,
+Igual que sé que en alguna parte,
 
 608
 00:35:31,980 --> 00:35:35,984
@@ -2756,7 +2756,7 @@ Sí, usaba un chaleco color verde tejido a mano.
 
 682
 00:39:22,168 --> 00:39:27,465
-y uno nuevo par de pantalones de pana.
+y un nuevo par de pantalones de pana.
 Y una corbata estampada dada con nudo Windsor. 
 
 683
@@ -2830,7 +2830,7 @@ torpe rastrea una matrícula,
 
 699
 00:40:09,298 --> 00:40:12,051
-Me darás la grabación y me le dio adiós. 
+Me darás la grabación y me le dio adieu. 
 
 700
 00:40:12,468 --> 00:40:14,971
@@ -3142,7 +3142,7 @@ en lo que estamos?
 772
 00:43:44,847 --> 00:43:46,182
 - ¡Hey...
-- ¡No te hace!
+- ¡No te así...!
 
 773
 00:43:46,349 --> 00:43:47,683
@@ -3222,7 +3222,7 @@ Una limo lo recogió，y la limo está en Tundratown.
 
 790
 00:44:25,680 --> 00:44:27,348
-Eso sérvelos.
+Buena treta.
 Te debo una. En serio.
 
 791
@@ -3558,7 +3558,7 @@ Y la abuela te preparó el cannoli.
 
 866
 00:48:49,068 --> 00:48:53,072
-Con una alfombra de piel 
+Con una alfombra de pelo 
 apestoso de zorrillo.
 
 867
@@ -3648,12 +3648,12 @@ Y ya jamás lo harás.
 
 887
 00:49:46,250 --> 00:49:48,502
-¡Si esta molestia por la alfombra,
+¡Si está molesto por la alfombra,
 tengo muchas otras!
 
 888
 00:49:48,669 --> 00:49:52,798
-¡Papipa! ¡Ya tenemos que bailar!
+¡Papita! ¡Ya tenemos que bailar!
 
 889
 00:49:54,216 --> 00:49:55,426
@@ -3765,7 +3765,7 @@ De pronto enloqueció.
 914
 00:51:20,969 --> 00:51:24,932
 Despedazó al auto, le dio 
-a mi chofer un terrible susto. 
+a mi chófer un terrible susto. 
 
 915
 00:51:25,099 --> 00:51:27,518
@@ -5219,7 +5219,7 @@ Entonces, ¿cuál es la conexión?
 1249
 01:10:54,475 --> 01:10:58,229
 Solo hay datos de que todos son miembros
-de la familia de predadora.
+de la familia depredadora.
 
 1250
 01:10:58,688 --> 01:11:01,399
@@ -5234,7 +5234,7 @@ Sí.
 1252
 01:11:04,360 --> 01:11:05,695
 ¿Por qué?
-Cuéntenos que lo que pasa.
+Cuéntenos qué es lo que pasa.
 
 1253
 01:11:05,861 --> 01:11:07,029
@@ -5283,7 +5283,7 @@ Por alguna razón,
 1263
 01:11:37,602 --> 01:11:39,729
 ellos se han vuelto a sumir en
-sus primitivos sin pulso salvajes.
+sus primitivos impulsos salvajes.
 
 1264
 01:11:41,564 --> 01:11:42,440
@@ -5345,7 +5345,8 @@ No más preguntas.
 
 1277
 01:12:12,928 --> 01:12:15,431
-Ni siquiera casi en mencionarte a contar algo sobre cómo...
+Ni siquiera alcance a mencionarte 
+o contar algo sobre cómo...
 
 1278
 01:12:15,598 --> 01:12:18,100
@@ -5361,8 +5362,8 @@ Oy, creo que ya dijiste bastante.
 
 1281
 01:12:22,605 --> 01:12:27,443
-¿Los depredadores tal vez se han muerto
-sumieren sus primitivos y pulso salvajes?
+¿Los depredadores tal vez se han vuelto
+sumir en sus primitivos impulsos salvajes?
 
 1282
 01:12:27,610 --> 01:12:29,236
@@ -5391,7 +5392,8 @@ no eres igual a ellos.
 
 1288
 01:12:41,165 --> 01:12:43,834
-Sabes de que, hablo no de esta clase de depredador.
+Sabes de qué hablo.
+No eres de esa clase de depredador.
 
 1289
 01:12:44,001 --> 01:12:45,503
@@ -5404,8 +5406,8 @@ al grado de tener que cargar un repelente para zorros?
 
 1291
 01:12:49,840 --> 01:12:53,511
-No creas que no lo noté que lo tenías la primera 
-Vez que te vi.
+No creas que no lo noté que 
+lo tenías la primera vez que te vi.
 
 1292
 01:12:53,678 --> 01:12:56,972
@@ -5422,7 +5424,7 @@ Que me haga salvaje,
 
 1295
 01:13:03,479 --> 01:13:05,564
-¿Crees que podría tratarte...
+¿Crees que podría tratar de...
 
 1296
 01:13:05,731 --> 01:13:06,732
@@ -5475,7 +5477,7 @@ Estamos a salvo?
 
 1307
 01:13:37,388 --> 01:13:39,056
-Alguno zorro ya censó salvaje?
+Algún otro zorro ya se hizo salvaje?
 
 1308
 01:13:39,432 --> 01:13:41,809
@@ -5503,8 +5505,8 @@ que la violencia está relacionada con animales de depredadores.
 
 1313
 01:13:56,240 --> 01:13:59,785
-<i>Mientras tanto, varias protestos 
-sofocaron una formada de paso organizado 
+<i>Mientras tanto, varias protestas 
+sofocaron una formada de paz organizado 
 
 1314
 01:13:59,952 --> 01:14:01,328
@@ -5549,7 +5551,7 @@ es mucho mejor que esto.
 1323
 01:14:27,104 --> 01:14:29,315
 <i>No sabemos por qué
-sigue corriendo estos ataques.
+sigue ocurriendo estos ataques.
 
 1324
 01:14:30,274 --> 01:14:34,445
@@ -5856,12 +5858,12 @@ ataques de ira y agresión...
 
 1392
 01:18:26,677 --> 01:18:28,846
-Era un completo tanto.
+Era un completo tonto.
 
 1393
 01:18:29,847 --> 01:18:33,350
 No eres el único que puede 
-hacer un tanto.
+hacer un tonto.
 
 1394
 01:18:34,518 --> 01:18:37,187
@@ -5874,7 +5876,7 @@ entre las midnicampum holicithias.
 
 1396
 01:18:42,860 --> 01:18:44,820
-Ese es un trabalengua,
+Ese sí es un trabalengua,
 Señor H.
 
 1397
@@ -5888,11 +5890,11 @@ llamado Aulladores.
 
 1399
 01:18:50,701 --> 01:18:51,410
-Gids refiere a las flores, Judy.
+Gids se refiere a las flores, Judy.
 
 1400
 01:18:52,619 --> 01:18:54,204
-Alejan a las placas de los vegetales.
+Alejan a las plagas de los vegetales.
 
 1401
 01:18:54,371 --> 01:18:55,998
@@ -5913,7 +5915,7 @@ Mordió libremente a tu madre.
 
 1405
 01:19:03,505 --> 01:19:05,841
-También el conejo salvajes.
+También hay conejo salvajes.
 
 1406
 01:19:06,008 --> 01:19:09,303
