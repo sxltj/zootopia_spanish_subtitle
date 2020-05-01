@@ -153,7 +153,7 @@ Eso te asienta.
 
 38
 00:03:21,843 --> 00:03:24,680
-Sí, ese es la belleza
+Y, ese es la belleza
 de la complacencia, Judy.
 
 39
@@ -1072,7 +1072,7 @@ entregar 100 multas al día.
 288
 00:16:35,845 --> 00:16:38,639
 Entregar 100.
-No voy a entregar 100 en un dia.
+No voy a entregar 100 en un día.
 
 289
 00:16:38,806 --> 00:16:40,892
@@ -2830,7 +2830,7 @@ torpe rastrea una matrícula.
 
 699
 00:40:09,298 --> 00:40:12,051
-Me darás la grabación y me le dio adieu. 
+Me darás la grabación y me retiro, adieu. 
 
 700
 00:40:12,468 --> 00:40:14,971
@@ -4351,7 +4351,7 @@ leal, servicial y confiable.
 
 1051
 00:59:18,321 --> 00:59:20,907
-¿Si creíste de que confiaríamos
+¿Si creíste que confiaríamos
 en un zorro sin bozal?
 
 1052
@@ -6255,7 +6255,7 @@ Lo veía en el subterráneo.
  
 1484
 01:23:16,466 --> 01:23:18,051
-<i>Es el sin amigos.
+<i>Es él sin amigos.
 
 1485
 01:23:19,261 --> 01:23:22,305
@@ -6539,7 +6539,7 @@ Inyectan a los depredadores con un suero.
 
 1550
 01:28:40,498 --> 01:28:42,417
-Eso probó a qué se vuelvan salvajes.
+Eso provoca que se vuelvan salvajes.
 
 1551
 01:28:42,584 --> 01:28:45,462
@@ -6828,7 +6828,7 @@ La ex-alcaldesa Dawn bellwether
 fue apresada hoy.
 
 1618
-01:32:45,660 --> 0s1:32:49,622
+01:32:45,660 --> 01:32:49,622
 Acusada de orquestar los salvajes ataques
 que habían azotado a Zootopia.
 
