@@ -67,7 +67,7 @@ Sí,
 
 18
 00:02:10,355 --> 00:02:13,609
-Ya no tengo que estaré escondida en un rebaño.
+Ya no tengo que estar escondida en un rebaño.
 
 19
 00:02:13,775 --> 00:02:17,362
@@ -116,7 +116,7 @@ Pero, a 340 kilómetros de aquí,
 
 30
 00:02:53,649 --> 00:02:57,277
-¡Se encuentra la gran ciudad de Zootopia!
+¡se encuentra la gran ciudad de Zootopia!
 
 31
 00:02:57,444 --> 00:03:00,781
@@ -167,7 +167,7 @@ Yo sí quiero intentarlas.
 
 41
 00:03:28,934 --> 00:03:30,352
-Tu padre se refiere, 
+Tu padre se refiere
 
 42
 00:03:30,519 --> 00:03:34,523
@@ -472,8 +472,8 @@ Aniquilada.
 
 113
 00:07:17,621 --> 00:07:20,624
-<i>Como el alcalde de Zootopia,
-me complacía anunciar.
+<i>Como alcalde de Zootopia,
+me complace anunciar.
 
 114
 00:07:20,790 --> 00:07:24,044
@@ -515,7 +515,7 @@ la placa.
 
 123
 00:07:44,814 --> 00:07:48,443
-<i>es un vedadero privilegio 
+<i>Es un vedadero privilegio.
 oficialmente te asigno
 
 124
@@ -543,7 +543,7 @@ Creo que este es un día importante para los chiquitos.
 
 129
 00:08:03,541 --> 00:08:04,709
-De acuerda, hazme espacio.
+De acuerdo, hazme espacio.
 Adiós.
 
 130
@@ -612,7 +612,7 @@ Al igual que a leones y lobos.
 
 144
 00:08:37,784 --> 00:08:38,785
-Simpre juegas las cartas con una.
+Simpre juegas a las cartas con una.
 
 145
 00:08:38,952 --> 00:08:40,120
@@ -633,7 +633,7 @@ Los peores son los zorros.
 
 149
 00:08:46,042 --> 00:08:50,130
-De hecho esta vez con acuerdo con tu padre.
+De hecho esta vez concuerdo con tu padre.
 Está en su biología.
 
 150
@@ -651,7 +651,7 @@ que casualmente era un zorro.
 
 153
 00:08:56,553 --> 00:08:58,430
-Yo conozco bobalicones que son conejos.
+Yo conozco bravucones que son conejos.
 
 154
 00:08:58,596 --> 00:09:01,307
@@ -666,7 +666,7 @@ que te ayudará.
 156
 00:09:03,685 --> 00:09:05,729
 - Y te puse comida allí.
-- Y un espanta a zorros.
+- Y un espanta zorros.
 
 157
 00:09:05,895 --> 00:09:06,980
@@ -678,7 +678,7 @@ Un repelente para zorros.
 
 159
 00:09:08,690 --> 00:09:09,733
-Espanta y repelente, eso lo necesita.
+Espantar y repeler, eso lo necesita.
 
 160
 00:09:09,816 --> 00:09:11,735
@@ -697,7 +697,7 @@ un paralizador?
 163
 00:09:16,281 --> 00:09:18,908
 OK. Ya, llevaré este
-si para sin hablar sí.
+si paras de hablar, ¿sí?
 
 164
 00:09:19,075 --> 00:09:20,827
@@ -827,7 +827,7 @@ No es justo.
 
 231
 00:13:36,708 --> 00:13:38,459
-Demostró los dientes primero.
+Él mostró los dientes primero.
 
 233
 00:13:40,920 --> 00:13:41,963
@@ -875,7 +875,7 @@ Yo, Benjamín Garraza,
 
 243
 00:14:06,487 --> 00:14:10,658
-Alguien todos consideran el típico oficial come dónut,
+A quien todos consideran el típico oficial come-dónut,
 estereotipándote, ¿no?
 
 244
@@ -1156,7 +1156,7 @@ A ver, niño. Atrás.
 308
 00:19:06,996 --> 00:19:09,332
 Oye, compadre. ¿Qué?
-Acaso no hay heladerías.
+Acaso no hay heladerías
 
 309
 00:19:09,498 --> 00:19:10,625
@@ -1173,7 +1173,7 @@ este travieso cachorro,
 
 312
 00:19:15,963 --> 00:19:18,966
-Le fascinan los elefantes.
+le fascinan los elefantes.
 Quiere volverse uno cuando crezca.
 
 313
@@ -1206,7 +1206,7 @@ Detienes la fila, zorro.
 
 319
 00:19:39,153 --> 00:19:41,364
-¿Hola? Disculpen.
+¿Hola? Disculpe.
 
 320
 00:19:41,655 --> 00:19:44,492
@@ -1223,8 +1223,8 @@ Solo tengo una duda.
 
 323
 00:19:48,329 --> 00:19:51,665
-Les has explicado a sus clientes
-que les agregando moco
+Les ha explicado a sus clientes
+que él está agregando mocos
 
 324
 00:19:51,832 --> 00:19:52,833
@@ -1579,7 +1579,7 @@ Luego descubre, upsi.
 403
 00:24:48,295 --> 00:24:51,548
 Que no todos los son.
-¿Y su sueño de volverse un oficial?
+¿Y su sueño de volverse un oficial citadina?
 
 404
 00:24:51,715 --> 00:24:55,177
@@ -1777,7 +1777,7 @@ Tengo que ir a...
 
 453
 00:27:30,499 --> 00:27:31,458
-<i>Sí, descansas en cielo.
+<i>Sí, descansa, mi cielo.
 
 454
 00:27:31,625 --> 00:27:32,960
@@ -1824,7 +1824,7 @@ Sí, pero tal vez sea peor.
 
 465
 00:27:59,653 --> 00:28:01,572
-¡Fuera 30 segundos de más!
+¡Fueron 30 segundos de más!
 
 466
 00:28:03,073 --> 00:28:05,158
@@ -1837,7 +1837,7 @@ que no te quiere cerca.
 
 468
 00:28:09,830 --> 00:28:13,333
-¡Qué mala! Coneja.
+¡Qué mala onda! Coneja.
 Mis impuestos pagan tu salario.
 
 469
@@ -1940,7 +1940,7 @@ Disculpen. Perdón.
 
 493
 00:30:18,667 --> 00:30:20,001
-Como una dónut, polizonte!
+Cómo una dónut, polizonte!
 
 494
 00:30:21,795 --> 00:30:25,132
@@ -1953,7 +1953,7 @@ Lindo cabello.
 
 496
 00:30:33,306 --> 00:30:34,349
-Te la agradezco.
+Te lo agradezco.
 
 497
 00:30:35,392 --> 00:30:37,185
@@ -1986,7 +1986,7 @@ Causaste pánico.
 
 504
 00:31:01,168 --> 00:31:03,044
-Pusiste en peligro muchos roedores.
+Pusiste en peligro a muchos roedores.
 
 505
 00:31:03,211 --> 00:31:05,088
@@ -1994,7 +1994,7 @@ Pero, en tu defensa,
 
 506
 00:31:05,255 --> 00:31:08,842
-detuviste un maestro criminal por robado 
+detuviste un maestro criminal por robar
 dos docenas de cebollas viejas.
 
 507
@@ -2045,7 +2045,7 @@ Ahora no.
 517
 00:31:32,199 --> 00:31:33,408
 <i>Es que pensé que 
-quería hablar con ella.</i>
+querría hablar con ella.</i>
 
 518
 00:31:33,575 --> 00:31:34,534
@@ -2104,7 +2104,7 @@ Tengo que descansar.
 530
 00:32:05,482 --> 00:32:08,735
 Comprenda, ya se lo dije,
-hacemos todo al nuestro alcance.
+hacemos todo a nuestro alcance.
 
 531
 00:32:08,902 --> 00:32:12,739
@@ -2193,7 +2193,7 @@ Ahora, abriré la puerta
 
 551
 00:32:57,659 --> 00:33:00,412
-y tú le dirás a la nutria
+y tú le dirás a esa nutria
 que solo eras una simple reparte-multas
 
 552
@@ -2207,7 +2207,7 @@ con delirios de grandeza.
 
 554
 00:33:04,791 --> 00:33:07,669
-Oír que la oficial Hopps
+Oí que la oficial Hopps
 estará en el caso.
 
 555
@@ -2216,7 +2216,7 @@ Vice-Alcaldesa Bellwether.
 
 556
 00:33:09,337 --> 00:33:12,757
-Al fin el Iniciativa de Inclusiones están
+Al fin la Iniciativa de Inclusiones está
 rindiendo frutos. 
 
 557
@@ -2382,12 +2382,12 @@ No, soy oficial Hopps,
 595
 00:34:58,363 --> 00:35:00,240
 y vine a hacerte
-unas preguntas al respecto un caso.
+unas preguntas con respecto a un caso.
 
 596
 00:35:00,407 --> 00:35:02,951
 ¿Qué pasó? ¿Robaron un cono
-de tránsito reparte multas?
+de tránsito reparte-multas?
 
 597
 00:35:03,118 --> 00:35:04,828
@@ -2464,12 +2464,12 @@ Por evasión de impuestos.
 614
 00:35:48,037 --> 00:35:53,293
 Sí, 200 dólares al día, 
-365 días al año desde los 12.
+365 días del año desde los 12.
 
 615
 00:35:53,460 --> 00:35:58,173
 Son dos décadas, así que por 20, 
-eso da 1,460,000 creo.
+nos da 1,460,000 creo.
 
 616
 00:35:58,339 --> 00:36:01,926
@@ -2644,7 +2644,7 @@ Oh, gracias, señor,
 656
 00:38:11,431 --> 00:38:13,224
 no se imagina cuánto aprecio 
-que me ayuda, no puedo...
+que me ayude, no puedo...
 
 657
 00:38:13,808 --> 00:38:14,934
@@ -2709,7 +2709,7 @@ Allí llegamos.
 671
 00:38:56,476 --> 00:39:01,105
 Notarán que Nangi es una elefante,
-así que ella jamás nada se lo olvida.
+así que ella jamás nada se le olvida.
 
 672
 00:39:01,272 --> 00:39:02,398
@@ -2735,7 +2735,7 @@ Ha tomado tu clase de yoga por...
 
 677
 00:39:11,824 --> 00:39:13,409
-No recuerdo que le he visto eso amigo.
+No recuerdo haber visto a su amigo.
 
 678
 00:39:13,576 --> 00:39:15,286
@@ -2903,11 +2903,11 @@ Alto.
 
 716
 00:41:23,498 --> 00:41:25,166
-¡Tú dijiste que " eso no iba a tardar "!
+¡Tú dijiste que esto no iba a tardar!
 
 717
 00:41:25,333 --> 00:41:28,377
-¿Qué insinúas que por ser
+¿Que insinúas que por ser
 un perezoso no es veloz?
 
 718
@@ -3222,7 +3222,7 @@ Una limo lo recogió, y la limo está en Tundratown.
 
 790
 00:44:25,680 --> 00:44:27,348
-Buena treta.
+De eso ser veloz.
 Te debo una. En serio.
 
 791
@@ -3273,8 +3273,8 @@ un policía de verdad.
 
 802
 00:44:56,627 --> 00:45:00,464
-¿Al verme fallar satisfacer de alguna
- forma tu triste y miserable vida?
+¿El verme fallar satisface de alguna
+forma tu triste y miserable vida?
 
 803
 00:45:00,631 --> 00:45:02,675
@@ -3341,7 +3341,7 @@ Pelo de oso polar.
 
 817
 00:45:57,897 --> 00:46:00,441
-La voz en terciopelo de Jerry Vole.
+La voz de terciopelo de Jerry Vole.
 
 818 
 00:46:01,567 --> 00:46:02,568
@@ -3386,7 +3386,7 @@ Estuvo aquí sin duda.
 
 828
 00:46:35,976 --> 00:46:37,103
-Espere un momento.
+Espera un momento.
 
 829
 00:46:37,937 --> 00:46:41,941
@@ -3492,7 +3492,6 @@ No.
 00:47:57,308 --> 00:47:58,642
 - ¿Es él? 
 - ¡No!
-
  
 852
 00:48:01,520 --> 00:48:02,646
@@ -3516,10 +3515,9 @@ Sí.
 00:48:20,998 --> 00:48:22,708
 Todo es un simple malentendido.
 
-
 857
 00:48:24,168 --> 00:48:27,379
-Te aparece sin anunciar del día de la boda de mi amada hija.
+Te apareces sin anunciar del día de la boda de mi amada hija.
 
 858
 00:48:27,713 --> 00:48:29,715
@@ -3657,7 +3655,7 @@ tengo muchas otras!
 
 889
 00:49:54,216 --> 00:49:55,426
-Y qué quedaste.
+En qué quedaste.
 
 890
 00:49:55,634 --> 00:49:57,803
@@ -3703,7 +3701,7 @@ Hola. Qué lindo vestido.
 
 900
 00:50:14,820 --> 00:50:15,904
-Te la agradezca.
+Te lo agradezco.
 
 901
 00:50:16,447 --> 00:50:17,448
@@ -3875,7 +3873,7 @@ Bien. Muy bien.
 
 941
 00:52:52,394 --> 00:52:57,065
-Porque los aulladores son justos 
+Porque los aulladores son justo
 de lo que nos interesa hablar.  
 
 942
@@ -3950,7 +3948,7 @@ Oficial Hopps, alguien responda.
 959
 00:53:56,834 --> 00:54:00,254
 ¿Sabes quién es Gazelle, la cantante
-más increíble en un ángel con cuernas?
+más increíble, un ángel con cuernas?
 
 960
 00:54:00,420 --> 00:54:03,382
@@ -4171,7 +4169,7 @@ Lo que dije fue: "No".
 
 1010
 00:56:58,348 --> 00:57:00,976
-No le va a volver la placa.
+No le va a devolver la placa.
 
 1011
 00:57:01,143 --> 00:57:04,896
@@ -4189,20 +4187,18 @@ Sí.
 
 1014
 00:57:10,068 --> 00:57:11,695
-Contra solo un zorro
-la tuvo que apoyar.
+Con razón un zorro la tuvo que apoyar.
 
 1015
 00:57:11,862 --> 00:57:13,989
-Ustedes no le dieron
-un apoyo. ¿O sí?
+Ustedes no le dieron apoyo. ¿O sí?
 
 1016
 00:57:14,156 --> 00:57:15,323
 - Que...
 - Así es la cosa, jefe.
 
-1017d
+1017
 00:57:15,490 --> 00:57:16,992
 Le dio 48 horas,
 
@@ -4221,7 +4217,7 @@ que es justo lo que haremos ahora.
 
 1021
 00:57:23,999 --> 00:57:28,462
-Disculpen señores, hay un importante pista
+Disculpen señores, hay una importante pista
 que seguir y un caso que cerrar.
 
 1022
@@ -4238,7 +4234,7 @@ Gracias.
 
 1025
 00:58:02,454 --> 00:58:04,873
-Jamás dejes que vean que te han herido.
+Jamás dejes que vean que te hirieron.
 
 1026
 00:58:06,124 --> 00:58:07,417
@@ -4254,7 +4250,7 @@ Ah, bueno, fue hace mucho. Pero...
 
 1029
 00:58:12,714 --> 00:58:16,718
-yo fui pequeño y muy desequilibrado
+yo fui pequeño y muy desequilibrado,
 iqual que tú.
 
 1030
@@ -4278,7 +4274,7 @@ dinero para comprarme un uniforme nuevo,
 1034
 00:58:33,902 --> 00:58:36,321
 <i>porque, créeme,
-estaba dispuesto encajar.
+estaba dispuesto a encajar.
 
 1035
 00:58:36,488 --> 00:58:39,825
@@ -4449,7 +4445,7 @@ a ese jaguar, seguro que...
 1073
 01:00:36,441 --> 01:00:39,945
 Sin embargo, si no tenías
-acceso al sistema principio,
+acceso al sistema al principio,
 
 1074
 01:00:40,111 --> 01:00:43,615
@@ -4491,7 +4487,7 @@ Y despeja mi tarde, voy a salir.
 1082
 01:01:01,132 --> 01:01:03,510
 ¡No, no! Pero señor, segunda 
-con Rebaños y Pasturas es hoy.
+con Rebaños y Pastos es hoy.
 
 1083
 01:01:03,677 --> 01:01:05,053
@@ -4528,7 +4524,7 @@ de las cámaras de tránsito.
 
 1091
 01:01:28,285 --> 01:01:29,703
-Las ovejas no me dejan esta cerca.
+Las ovejas no me dejan estar cerca.
 
 1092
 01:01:29,869 --> 01:01:31,288
@@ -4580,7 +4576,7 @@ quería el voto ovejuno.
 
 1103
 01:01:52,350 --> 01:01:53,560
-Pero sí recibí una tarra de obsequio.
+Pero sí recibí un tarro de obsequio.
 
 1104
 01:01:53,893 --> 01:01:55,687
@@ -4657,7 +4653,7 @@ Tienen la cabeza vacía.
 
 1120
 01:02:42,358 --> 01:02:44,986
-Te apuesto una moneda que uno aúlle. 
+Te apuesto una moneda a que uno aúlla. 
 
 1121
 01:02:45,153 --> 01:02:46,362
@@ -4674,7 +4670,7 @@ Aullar. Aulladores.
 
 1124
 01:02:51,576 --> 01:02:53,745
-¡Esa es lo que Manchas le temía!
+¡Es a lo que Manchas le temía!
 ¡Lobos!
 
 1125
@@ -4684,7 +4680,7 @@ Si tienen a Manchas,
 
 1126
 01:02:56,539 --> 01:02:58,249
-Apuesto a que Nutriales igual.
+Apuesto a que a Nutriales igual.
 
 1127
 01:02:58,416 --> 01:03:00,919
@@ -4706,7 +4702,7 @@ de vigilancia para hacer algo ilegal,
 
 1131
 01:03:12,931 --> 01:03:13,890
-lo que jamás hecho.
+lo que jamás he hecho.
 
 1132
 01:03:14,057 --> 01:03:15,850
@@ -4752,7 +4748,7 @@ Salen de la ciudad.
 
 1142
 01:03:36,079 --> 01:03:37,580
-¿Y este camino adónde llevar?
+¿Y este camino adónde lleva?
 
 1143
 01:04:22,250 --> 01:04:23,251
@@ -4781,11 +4777,11 @@ Parece que antes fue un hospital.
 1149
 01:05:16,971 --> 01:05:18,890
 Después de ti.
-Tú eres el oficial.
+Tú eres la oficial.
 
 1150
 01:05:27,357 --> 01:05:29,525
-Ok, fue nadie.
+Ok, no hay nadie.
 
 1151
 01:05:34,489 --> 01:05:36,866
@@ -4836,7 +4832,7 @@ O no.
 1162
 01:06:30,795 --> 01:06:33,089
 Creo que aún no está listo
-para a ver a su esposa.
+para ir a ver a su esposa.
 
 1163
 01:06:33,464 --> 01:06:35,425
@@ -4892,7 +4888,7 @@ y ustedes no saben por qué.
 
 1175
 01:07:05,830 --> 01:07:08,624
-Eso no es ni remotamente hacer todos alcance.
+Eso no es ni remotamente hacer todo a su alcance.
 
 1176
 01:07:08,791 --> 01:07:09,834
@@ -4924,7 +4920,7 @@ Hacerlo público.
 
 1182
 01:07:22,847 --> 01:07:25,850
-¿Y qué creen que dirán de mi que por si lo olvidó
+¿Y qué cree que dirán de mi que por si lo olvidó
 
 1183
 01:07:26,017 --> 01:07:27,602
@@ -4974,7 +4970,7 @@ Gracias, es todo.
 1194
 01:07:52,460 --> 01:07:54,879
 ¡Adiós!  Mi fin, tu fin.
-Al fin de la historia. 
+El fin de la historia. 
 
 1195
 01:07:55,046 --> 01:07:56,172
@@ -4982,7 +4978,7 @@ Al fin de la historia.
 
 1196
 01:07:56,339 --> 01:07:59,050
-¿Qué? ¿Nadar bien? Sí, sí nadar bien.
+¿Qué? ¿Nadar bien? Sí, sé nadar bien.
 ¿Por qué?
 
 1197
@@ -5027,7 +5023,7 @@ eres un bailarín espectacular,
 1206
 01:08:44,887 --> 01:08:47,557
 Garraza, ¿no ves que trabajo en 
-los expedientes mamíferos?
+los expedientes de mamíferos?
 
 1207
 01:08:47,723 --> 01:08:49,892
@@ -5058,7 +5054,7 @@ Lo que usted quería era proteger su empleo.
 
 1213
 01:09:06,284 --> 01:09:09,245
-No. Escucha, aún no halla la razón
+No. Escucha, aún no hallan la razón
 de qué es lo que pasa aquí,
 
 1214
@@ -5071,7 +5067,7 @@ Tiene derecho a guardar silencio.
 
 1216
 01:09:13,124 --> 01:09:15,585
-Todo lo que diga puede se ha usado
+Todo lo que diga puede y será usado
 en su contra en una corte.
 
 1217
@@ -5110,13 +5106,12 @@ Yo te enseño.
 
 1225
 01:09:35,313 --> 01:09:37,899
-Quieres asombrarlos：contesta sus dudas, 
+Quieres asombrarlos: contesta sus dudas, 
 preguntando otra cosa
 
 1226
 01:09:38,065 --> 01:09:41,110
-y contéstate tú sola.
-Así:
+y contéstate tú sola. Así:
 
 1227
 01:09:41,277 --> 01:09:44,614
@@ -5170,7 +5165,7 @@ Oficial Hopps, es hora.
 
 1239
 01:10:24,362 --> 01:10:29,367
-Ahora, los dejó el mano de 
+Ahora, los dejo en manos de 
 la oficial que resolvió el caso.
 
 1240
@@ -5258,7 +5253,7 @@ Hay algo diferente en su ADN.
 1258
 01:11:21,419 --> 01:11:23,921
 ¿En su ADN?
-¿Quiere ser más especificar?
+¿Quiere ser más específica?
 
 1259
 01:11:24,005 --> 01:11:27,925
@@ -5311,8 +5306,7 @@ preparados y les darán su protección.
 
 1270
 01:11:56,370 --> 01:11:57,580
-¿Qué tratan de haciendo
-para protegernos?
+¿Qué están haciendo para protegernos?
 
 1271
 01:11:57,747 --> 01:12:00,124
@@ -5342,7 +5336,7 @@ No más preguntas.
 
 1277
 01:12:12,928 --> 01:12:15,431
-Ni siquiera alcance a mencionarte 
+Ni siquiera alcancé a mencionarte 
 o contar algo sobre cómo...
 
 1278
@@ -5359,7 +5353,7 @@ Oy, creo que ya dijiste bastante.
 
 1281
 01:12:22,605 --> 01:12:27,443
-¿Los depredadores tal vez se han vuelto
+¿Los depredadores tal vez se han vuelto a
 sumir en sus primitivos impulsos salvajes?
 
 1282
@@ -5403,13 +5397,13 @@ cargar un repelente para zorros?
 
 1291
 01:12:49,840 --> 01:12:53,511
-No creas que no lo noté que 
+No creas que no noté que 
 lo tenías la primera vez que te vi.
 
 1292
 01:12:53,678 --> 01:12:56,972
 Así que, te preguntaré una cosa,
-¿tienes miedo de mi?
+¿tienes miedo de mí?
 
 1293
 01:12:58,557 --> 01:13:00,976
@@ -5434,7 +5428,7 @@ Eso creí,
 1298
 01:13:14,115 --> 01:13:16,534
 justo cuando pensé que alguien
-tenía fe en mi.
+tenía fe en mí.
 
 1299
 01:13:16,701 --> 01:13:20,413
@@ -5499,12 +5493,12 @@ comenzaron una semana después
 1312
 01:13:49,942 --> 01:13:56,073
 <i>de que la Oficial Judy Hopps dijera
-que la violencia está relacionada con animales de depredadores.
+que la violencia está relacionada con animales depredadores.
 
 1313
 01:13:56,240 --> 01:13:59,785
 <i>Mientras tanto, varias protestas 
-sofocaron una formada de paz organizada
+sofocaron una jornada de paz organizada
 
 1314
 01:13:59,952 --> 01:14:01,328
@@ -5527,7 +5521,6 @@ sofocaron una formada de paz organizada
 <i>Donde hay oportunidades, 
 y es una ciudad increíble,
 
-
 1319
 01:14:10,963 --> 01:14:13,340
 <i>En la que celebramos
@@ -5544,12 +5537,12 @@ es mucho mejor que esto.
 
 1322
 01:14:19,763 --> 01:14:21,932
-<i>No busca signar culpa ciegamente.
+<i>No busca asignar culpas ciegamente.
 
 1323
 01:14:27,104 --> 01:14:29,315
 <i>No sabemos por qué
-sigue ocurriendo estos ataques.
+siguen ocurriendo estos ataques.
 
 1324
 01:14:30,274 --> 01:14:34,445
@@ -5567,7 +5560,7 @@ que el miedo nos divida.
 
 1327
 01:14:48,000 --> 01:14:52,546
-<i>Por favor,devuélvanme 
+<i>Por favor, devuélvanme 
 la Zootopia que amo.
 
 1328
@@ -5584,7 +5577,7 @@ Nos llamó la nueva alcaldesa.
 
 1331
 01:15:01,472 --> 01:15:04,099
-Te has vuelto en importante.
+Te has vuelto importante.
 
 1332
 01:15:07,478 --> 01:15:08,938
@@ -5626,7 +5619,7 @@ Hopps!
 
 1341
 01:15:36,465 --> 01:15:38,634
-POLICA
+POLICÍA
 Integridad Honestidad Valentía.
 
 1342
@@ -5635,7 +5628,7 @@ No lo comprendo.
 
 1343
 01:15:41,470 --> 01:15:44,473
-En la ciudad, 90 % son presas, Judy.
+En la ciudad, el 90% son presas, Judy.
 
 1344
 01:15:44,640 --> 01:15:47,142
@@ -5644,7 +5637,7 @@ están asustados.
 
 1345
 01:15:47,851 --> 01:15:50,771
-Eres sus heroína.
+Eres su heroína.
 Confían en ti, Judy.
 
 1346
@@ -5666,7 +5659,7 @@ pero creo que lo fracturé.
 
 1350
 01:16:13,544 --> 01:16:17,548
-Te estas tanto demasiado crédito, Hopps.
+Te estás dando demasiado crédito, Hopps.
 
 1351
 01:16:17,715 --> 01:16:21,343
@@ -5722,7 +5715,7 @@ Gracias por la oportunidad.
 
 1363
 01:17:01,425 --> 01:17:05,179
-POLICA.
+POLICÍA.
 
 1364
 01:17:08,849 --> 01:17:11,685
@@ -5768,7 +5761,7 @@ en tus orejas se ve.
 1373
 01:17:36,126 --> 01:17:38,295
 Por qué creí
-que marque una diferencia?
+que marcaría una diferencia?
 
 1374
 01:17:38,462 --> 01:17:40,255
@@ -5840,14 +5833,13 @@ Gideon Grey.
 
 1389
 01:18:15,124 --> 01:18:16,250
-Quien iba a decirlo.
+Quién iba a decirlo.
 
 1390
 01:18:16,417 --> 01:18:20,838
 Hola, Judy. Quiero decir de que
 estoy apenado por el modo...
 en que me porté en mi niñez.
-
 
 1391
 01:18:21,004 --> 01:18:26,510
@@ -5879,8 +5871,7 @@ Señor H.
 
 1397
 01:18:44,987 --> 01:18:47,614
-Mi familia siempre les a
-llamado Aulladores.
+Mi familia siempre les ha llamado Aulladores.
 
 1398
 01:18:49,283 --> 01:18:50,534
@@ -5922,7 +5913,7 @@ pero si dolió como nunca.
 
 1407
 01:19:09,470 --> 01:19:13,515
-Claro que dolió. Hasta una marca en el brazo.
+Claro que dolió, hasta te dejó una marca en el brazo.
 Yo diría que fue salvaje.
 
 1408
@@ -5999,7 +5990,7 @@ Son flores tóxicas.
 
 1425
 01:20:14,785 --> 01:20:18,956
-Creo que alguien ataca depredadores 
+Creo que alguien ataca a depredadores 
 a propósito para volverlos salvajes.
 
 1426
@@ -6085,8 +6076,7 @@ Ya, ya, acércate.
 
 1445
 01:21:37,993 --> 01:21:42,039
-Ok. Ya, tus especies
-son tan sentimentales.
+Ok. Ya, y tu especie son tan sentimentales.
 
 1446
 01:21:42,205 --> 01:21:44,625
@@ -6112,7 +6102,7 @@ GRANJA FAMILIAR HOPPS.
 
 1451
 01:21:57,346 --> 01:22:00,015
-Creí que solo teníais zanahorias.
+Creí que solo tenías zanahorias.
 
 1452
 01:22:00,891 --> 01:22:01,892
@@ -6138,14 +6128,12 @@ Yo conozco a todo el mundo.
 1457
 01:22:10,567 --> 01:22:13,654
 ¿Cómo están? ¿Pasen por aquí? 
-Lo que necesitan aquí lo tengo.
+Lo que necesiten aquí lo tengo.
 
 1458
 01:22:13,904 --> 01:22:14,821
 ¡Sus películas favoritas!
 
-1459
-01:22:14,988 --> 01:22:15,489
 
 1460
 01:22:14,572 --> 01:22:16,073
@@ -6223,7 +6211,7 @@ Voy a llamarla Judy.
 
 1477
 01:22:58,907 --> 01:23:00,117
-Arrojen al hielo.
+Arrójenlo al hielo.
 
 1478
 01:23:00,283 --> 01:23:02,411
@@ -6241,7 +6229,7 @@ Billetes.
 
 1481
 01:23:07,290 --> 01:23:09,251
-¿A quién los vendiste entonces?
+¿A quién las vendiste entonces?
 
 1482
 01:23:09,418 --> 01:23:12,379
@@ -6251,7 +6239,7 @@ Lo veía en el subterráneo.
 1483
 01:23:12,462 --> 01:23:15,465
 <i>Tengan cuidado.
-Él es lo opuesto amistoso.
+Él es el opuesto amistoso.
  
 1484
 01:23:16,466 --> 01:23:18,051
@@ -6312,7 +6300,7 @@ No sé lo que pase primero.
 
 1497
 01:25:06,243 --> 01:25:09,579
-¡Doug, ábrelos!
+¡Doug, ábrenos!
 Aquí traemos tu latte.
 
 1498
@@ -6385,8 +6373,7 @@ Vaya, aleluya.
 
 1513
 01:25:52,289 --> 01:25:54,708
-Tenemos un accidente
-en el laboratorio.
+Tenemos un incidente en el laboratorio.
 
 1514
 01:25:55,292 --> 01:25:56,376
@@ -6395,7 +6382,7 @@ en el laboratorio.
 1515
 01:25:58,128 --> 01:26:01,923
 Misión cumplida. ¿Sería prematuro
-que festeje un victorioso tut-tut?
+que festeje con un victorioso tut-tut?
 
 1516
 01:26:02,090 --> 01:26:04,593
@@ -6440,7 +6427,7 @@ Tal vez sea granizo.
 
 1526
 01:26:44,174 --> 01:26:46,009
-¡No trates de parar ese tren!
+¡No trates de parar este tren!
 
 1527
 01:27:08,323 --> 01:27:09,699
@@ -6506,7 +6493,7 @@ Hay que llegar a la comisaría.
 
 1542
 01:28:16,891 --> 01:28:19,102
-Hay que cortar por el museo.
+Hay que acortar por el museo.
 
 1543
 01:28:19,436 --> 01:28:22,147
@@ -6643,7 +6630,7 @@ Piénsalo.
 
 1575
 01:30:02,497 --> 01:30:04,416
-Noventa por cientos de la población
+Noventa por ciento de la población
 
 1576
 01:30:04,582 --> 01:30:06,835
@@ -6717,7 +6704,7 @@ predispuestos a ser salvajes.
 
 1592
 01:31:21,034 --> 01:31:25,079
-Heroico oficial atacada por zorro salvaje.
+Heroica oficial atacada por zorro salvaje.
 
 1593
 01:31:26,247 --> 01:31:29,918
@@ -6799,7 +6786,7 @@ Tienes que probarlas.
 1611
 01:32:18,841 --> 01:32:21,427
 Inculpé a Leonzález.
-Y lo vuelvo a hacer con los dos.
+Y lo puedo hacer con los dos.
 
 1612
 01:32:21,594 --> 01:32:23,972
@@ -6835,7 +6822,7 @@ que habían azotado a Zootopia.
 1619
 01:32:49,789 --> 01:32:53,376
 Su predecesor, Leodoro Leonzález,
-niega estar enterado de su plan.
+niega a estar enterado de su plan.
 
 1620
 01:32:53,543 --> 01:32:55,878
@@ -6916,8 +6903,7 @@ Todo tenemos mucho en común.
 
 1637
 01:33:55,104 --> 01:33:57,940
-Y entre más tratemos
-entendernos entre nosotros,
+Y entre más tratemos de entendernos entre nosotros,
 
 1638
 01:33:58,107 --> 01:34:00,985
